@@ -13,7 +13,7 @@ Some languages and tools I am familiar with:
 !["JS"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 !["React"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- :telescope: I’m currently working on this page.
+- :code: I’m currently working as Mid-level Flutter Application Engineer.
 - :seedling: I’m currently learning Flutter
 - :dancers: I’m looking to collaborate on Mobile Application Development
 - :mailbox: How to reach me: Email: utsab.aryal1@gmail.com
