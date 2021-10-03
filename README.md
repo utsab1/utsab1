@@ -20,6 +20,8 @@ Some languages and tools I am familiar with:
  [![trophy](https://github-profile-trophy.vercel.app/?username=utsab1)](https://github.com/ryo-ma/github-profile-trophy)
 <!--[![Utsab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=utsab1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsab1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ![Utsab's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsab1&count_private=true)
 ![Profile views](https://gpvc.arturio.dev/utsab1)
