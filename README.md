@@ -16,7 +16,7 @@ Some languages and tools I am familiar with:
 !["React"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - :keyboard: I’m currently working as a Mid-level Flutter Application Engineer.
-- ⌨️: Also working as an iOS Mobile Application Developer.
+- :keyboard: Also working as an iOS Mobile Application Developer.
 - 💁: portfolio: https://utsabaryal.com.np/
 - :mailbox: How to reach me: Email: utsab.aryal1@gmail.com
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/utsabaryal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/utsab9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/utsab.aryal/)
