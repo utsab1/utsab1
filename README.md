@@ -3,7 +3,7 @@ I'm Utsab all the way from Nepal, and I have been working as a Mobile Applicatio
 #### I Enjoy tackling new challenges and love learning new things.
 Some languages and tools I am familiar with:
 
-!["swift"](https://img.shields.io/badge/Swift-e89494?style=for-the-badge&logo=flutter&logoColor=blue)
+!["swift"](https://img.shields.io/badge/Swift-e89494?style=for-the-badge&logo=ios&logoColor=blue)
 !["iOS"](https://img.shields.io/badge/iOS-e89494?style=for-the-badge&logo=flutter&logoColor=blue)
 !["Flutter"](https://img.shields.io/badge/Flutter-e89494?style=for-the-badge&logo=flutter&logoColor=blue)
 !["Dart"](https://img.shields.io/badge/Dart-a4a9b2?style=for-the-badge&logo=dart&logoColor=blue)
