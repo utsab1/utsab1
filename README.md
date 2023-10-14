@@ -4,7 +4,7 @@ I'm Utsab all the way from Nepal, and I have been working as a Mobile Applicatio
 Some languages and tools I am familiar with:
 
 !["swift"](https://img.shields.io/badge/Swift-e89494?style=for-the-badge&logoColor=blue)
-!["iOS"](https://img.shields.io/badge/iOS-e89494?style=for-the-badge&logo=flutter&logoColor=blue)
+!["iOS"](https://img.shields.io/badge/iOS-e89494?style=for-the-badge&logoColor=blue)
 !["Flutter"](https://img.shields.io/badge/Flutter-e89494?style=for-the-badge&logo=flutter&logoColor=blue)
 !["Dart"](https://img.shields.io/badge/Dart-a4a9b2?style=for-the-badge&logo=dart&logoColor=blue)
 !["AWS"](https://img.shields.io/badge/AWS-222f40?style=for-the-badge&logo=amazon-aws&logoColor=ec912d)
