@@ -1,5 +1,5 @@
 ### Hi there :wave:, I am Utsab Aryal
-I'm Utsab all the way from Nepal, and I have been working as a Mobile Application Engineer.
+I'm Utsab from Nepal currently reside in UAE and have been working as a Mobile Application Engineer.
 #### I Enjoy tackling new challenges and love learning new things.
 Some languages and tools I am familiar with:
 
@@ -15,8 +15,10 @@ Some languages and tools I am familiar with:
 !["JS"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 !["React"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- :keyboard: I’m currently working as a Mid-level Flutter Application Engineer.
-- :keyboard: Also working as an iOS Mobile Application Developer.
+- :keyboard: Currently working as an iOS Mobile Application Developer.
+- 
+- :keyboard: Also working as a Flutter Application Engineer.
+
 - 💁: portfolio: https://utsabaryal.com.np/
 - :mailbox: How to reach me: Email: utsab.aryal1@gmail.com
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/utsab1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/utsabaryal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/utsab9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/utsab.aryal/)
